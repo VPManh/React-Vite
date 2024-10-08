@@ -10,3 +10,4 @@ const MyComponent = () => {
 export default MyComponent
 // cách 2
 // export {MyComponent}
+// import {MyComponent } from './component/learn/MyComponent'
